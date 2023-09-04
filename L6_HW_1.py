@@ -1,5 +1,4 @@
-
-
+# https://github.com/Snakeinweb/L6_HW_1
 
 n = int (input ())
 k = 0
